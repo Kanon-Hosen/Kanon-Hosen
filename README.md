@@ -1,4 +1,4 @@
-![MasterHead](https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png)
+![MasterHead](https://miro.medium.com/max/900/0*UqGyYmWCRQnjLzSk.jpg)
 <h1 align="center">Hi 👋, I'm Kanon Hosen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
