@@ -1,14 +1,14 @@
 ![MasterHead](https://miro.medium.com/max/900/0*UqGyYmWCRQnjLzSk.jpg)
 <h1 align="center">Hi 👋, I'm Kanon Hosen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Next Js developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://kanon-hosen.github.io/personal-website](https://kanon-hosen.github.io/personal-website)
+- 👨‍💻 All of my projects are available at [https://kanon-hosen.github.io/personal-website](https://kanon-hosen.vercel.app/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **kanon5866@gmail.com**
 
