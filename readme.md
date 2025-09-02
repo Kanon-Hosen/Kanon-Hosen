@@ -121,26 +121,19 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Kanon-Hosen">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanon-Hosen&theme=radical&border=7F3FBF&background=0D1117" alt="Kanon's GitHub streak"/>
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kanon-hosen&theme=radical&border_radius=" alt="Kanon's GitHub Streak" /></a>
 </p>
 
 <p align="center">
- <a href="https://github.com/Kanon-Hosen" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanon-Hosen&theme=radical&border=7F3FBF&background=0D1117" alt="Kanon's GitHub streak" />
-</a>
+  <a href="https://github.com/kanon-hosen">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanon-hosen&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
 </p>
 
-<div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
-  <a href="https://github.com/Kanon-Hosen" target="_blank">
-    <img alt="Kanon Hosen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kanon-Hosen&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
-  </a>
-  <a href="https://github.com/Kanon-Hosen" target="_blank">
-    <img alt="Kanon Hosen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kanon-Hosen&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
-  </a>
-</div>
-
-
+<a> 
+    <a href="https://github.com/kanon-hosen"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kanon-hosen&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/kanon-hosen"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kanon-hosen&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 ![Kanon Hosen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanon-Hosen&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
