@@ -105,10 +105,20 @@
 <br/>
 
 ## Top Open Source -
-[![MiskBlooming](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=MiskBlooming&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kanon-Hosen/MiskBlooming)
-[![jobFinder-Redis-Prisma](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=jobFinder-redis-prisma-postgresql&border_color=FF5722&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FF5722)](https://github.com/Kanon-Hosen/jobFinder-redis-prisma-postgresql)
-[![flat-rent-web](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=flat-rent-web&border_color=1DB954&bg_color=0D1117&title_color=1DB954&text_color=CCCCCC&icon_color=1DB954)](https://github.com/Kanon-Hosen/flat-rent-web)
-[![TechFilo](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=techfilo&border_color=FF5733&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FF5733)](https://github.com/Kanon-Hosen/techfilo)
+### Featured Projects
+
+[![MiskBlooming](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=MiskBlooming&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kanon-Hosen/MiskBlooming)  
+**MiskBlooming** – A full-stack web app built to manage and showcase blooming plants with interactive UI and CRUD features.
+
+[![jobFinder-Redis-Prisma](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=jobFinder-redis-prisma-postgresql&border_color=FF5722&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FF5722)](https://github.com/Kanon-Hosen/jobFinder-redis-prisma-postgresql)  
+**JobFinder** – A Next.js job board application using Redis for caching, Prisma as ORM, and PostgreSQL for database management.
+
+[![flat-rent-web](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=flat-rent-web&border_color=1DB954&bg_color=0D1117&title_color=1DB954&text_color=CCCCCC&icon_color=1DB954)](https://github.com/Kanon-Hosen/flat-rent-web)  
+**Flat Rent Web** – A responsive web platform to list and search flats for rent with smooth UI and advanced filters.
+
+[![TechFilo](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=techfilo&border_color=FF5733&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FF5733)](https://github.com/Kanon-Hosen/techfilo)  
+**TechFilo** – A professional tech agency providing web development, digital solutions, and software services.
+
 
 <p align="left">
   <a href="https://github.com/Kanon-Hosen?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
