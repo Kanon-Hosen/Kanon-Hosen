@@ -38,9 +38,9 @@
 </p>
 
 <p align="center">
- <a href="[https://Kanon-Hosen.com](https://kanon-portfolio.vercel.app/)" target="blank">
+<a href="https://kanon-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Kanon-Hosen" />
- </a>
+</a>
  <a href="https://linkedin.com/in/kanon-hosen" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kanon-Hosen"/>
  </a>
@@ -53,9 +53,9 @@
  <a href="https://instagram.com/Kanon-Hosen" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Kanon-Hosen" />
  </a> 
- <a href="[https://facebook.com/Kanon-Hosen.dev](https://www.facebook.com/kanon.hosen.75)" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Kanon-Hosen"  />
-  </a> 
+<a href="https://www.facebook.com/kanon.hosen.75" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Kanon-Hosen" />
+</a>
 </p>
 <br />
 
@@ -68,7 +68,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: kanon5866@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Kanon-Hosen/Kanon-Hosen/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/Kanon-Hosen/issues)
 
 </p>
 
@@ -90,6 +90,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
@@ -104,10 +105,10 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kanon-Hosen/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kanon-Hosen/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kanon-Hosen/web-projects)
-[![Kanon Hosen Readme](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=Kanon-Hosen&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kanon-Hosen/Kanon-Hosen)
+[![MiskBlooming](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=MiskBlooming&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kanon-Hosen/MiskBlooming)
+[![jobFinder-Redis-Prisma](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=jobFinder-redis-prisma-postgresql&border_color=FF5722&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FF5722)](https://github.com/Kanon-Hosen/jobFinder-redis-prisma-postgresql)
+[![flat-rent-web](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=flat-rent-web&border_color=1DB954&bg_color=0D1117&title_color=1DB954&text_color=CCCCCC&icon_color=1DB954)](https://github.com/Kanon-Hosen/flat-rent-web)
+[![TechFilo](https://github-readme-stats.vercel.app/api/pin/?username=Kanon-Hosen&repo=techfilo&border_color=FF5733&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FF5733)](https://github.com/Kanon-Hosen/techfilo)
 
 <p align="left">
   <a href="https://github.com/Kanon-Hosen?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -119,7 +120,7 @@
 
 <p align="center">
   <a href="https://github.com/Kanon-Hosen">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanon-Hosen&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanon-Hosen&theme=radical&border=7F3FBF&background=0D1117" alt="Kanon's GitHub streak"/>
   </a>
 </p>
 
