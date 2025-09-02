@@ -132,14 +132,11 @@
 </a>
 </p>
 
-<div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
-  <a href="https://github.com/Kanon-Hosen" target="_blank">
-    <img alt="Kanon Hosen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kanon-Hosen&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
-  </a>
-  <a href="https://github.com/Kanon-Hosen" target="_blank">
-    <img alt="Kanon Hosen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kanon-Hosen&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
-  </a>
-</div>
+<a> 
+    <a href="https://github.com/Kanon-Hosen"><img alt="Kanon Hosen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kanon-Hosen&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Kanon-Hosen"><img alt="Kanon Hosen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kanon-Hosen&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 
 
